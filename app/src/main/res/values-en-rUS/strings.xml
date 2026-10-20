@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoLazyColumn</string>
+    <string name="nombre">Edgar Guadalupe</string>
+    <string name="apellido">Gamboa Orozco</string>
+    <string name="materia">Mobile app development</string>
+    <string name="image_description">Application illustration</string>
+    <string name="pantalla_principal">Home</string>
+    <string name="back_btn_desc">Back</string>
+    <string name="bottom_app_bar">Bottom bar</string>
+    <string name="home_fab_text">FAB Action</string>
+</resources>

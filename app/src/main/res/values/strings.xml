@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoLazyColumn</string>
+    <string name="nombre">Edgar Guadalupe</string>
+    <string name="apellido">Gamboa Orozco</string>
+    <string name="materia">Materia: Desarrollo de Aplicaciones Móviles</string>
+    <string name="image_description">Ilustración de la aplicación</string>
+    <string name="pantalla_principal">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Barra de abajo</string>
+    <string name="home_fab_text">Snackbar</string>
+</resources>

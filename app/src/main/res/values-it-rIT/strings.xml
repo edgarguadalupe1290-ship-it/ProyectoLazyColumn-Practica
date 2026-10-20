@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoLazyColumn</string>
+    <string name="nombre">Edgar Guadalupe</string>
+    <string name="apellido">Gamboa Orozco</string>
+    <string name="materia">SviLuppo di applicazioni mobili</string>
+    <string name="image_description">Illustrazione dell\'applicazione</string>
+    <string name="pantalla_principal">Inizio</string>
+    <string name="back_btn_desc">Indietro</string>
+    <string name="bottom_app_bar">Barra inferiore</string>
+    <string name="home_fab_text">Azione FAB</string>
+</resources>
